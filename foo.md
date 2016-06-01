@@ -1,11 +1,1 @@
-----master----
-3
-----master----
-
-----branch1----
-1
-----branch1----
-
-----branch2----
-0
-----branch2----
+Can't seem to be able to reproduce the issue.
